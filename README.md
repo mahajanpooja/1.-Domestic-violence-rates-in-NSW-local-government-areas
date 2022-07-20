@@ -1,6 +1,6 @@
 # Domestic-violence-rates-in-NSW-local-government-areas
 Analysed a combination of the data sources provided in the Bureau of Crime Statistics and Research, to establish a theory of ecological crime rates and an explanatory model in R.
-Final report is available here.
+Final report is available [here](https://github.com/mahajanpooja/Domestic-violence-rates-in-NSW-local-government-areas/blob/main/Final.pdf).
 
 ## Introduction
 Question: What explains domestic violence rates in NSW local government areas?
